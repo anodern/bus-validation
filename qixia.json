@@ -1,0 +1,1329 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-10-08T04:02:15Z",
+    "timestamp_areas_base": "2021-10-08T03:15:33Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+    {
+      "type": "relation",
+      "id": 2128021,
+      "tags": {
+        "name": "南京公交玉六线",
+        "ref": "玉六",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2140010,
+      "tags": {
+        "admin_level": "6",
+        "boundary": "administrative",
+        "name": "栖霞区",
+        "name:de": "Qixia (Nanjing)",
+        "name:en": "Qixia District",
+        "name:eu": "Qixia Barrutia",
+        "name:fr": "District de Qixia",
+        "name:id": "Distrik Qixia",
+        "name:it": "Distretto di Qixia",
+        "name:ja": "棲霞区",
+        "name:ko": "치샤구",
+        "name:nan": "Chhe-hâ-khu",
+        "name:no": "Qixia",
+        "name:ru": "Цися",
+        "name:sv": "Qixia",
+        "name:ur": "چیشیا ضلع",
+        "name:vi": "Thê Hà",
+        "name:yue": "棲霞區",
+        "name:zh": "栖霞区",
+        "name:zh-Hant": "棲霞區",
+        "type": "boundary",
+        "wikidata": "Q1337444",
+        "wikipedia": "zh:栖霞区"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2306227,
+      "tags": {
+        "from": "句容",
+        "name": "宁句城际公交",
+        "ref": "宁句(Nanjing-Jurong)",
+        "route": "bus",
+        "source": "GPS",
+        "to": "南京马群",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13250012,
+      "tags": {
+        "colour": "#33AA00",
+        "from": "经天路地铁站南",
+        "name": "镇江公交606路: 经天路地铁站南=>南门汽车客运站",
+        "operator": "镇江江天汽运有限公司",
+        "public_transport:version": "2",
+        "ref": "606",
+        "route": "bus",
+        "to": "南门汽车客运站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13250013,
+      "tags": {
+        "colour": "#33AA00",
+        "from": "南门汽车客运站",
+        "name": "镇江公交606路: 南门汽车客运站=>经天路地铁站",
+        "operator": "镇江江天汽运有限公司",
+        "public_transport:version": "2",
+        "ref": "606",
+        "route": "bus",
+        "to": "经天路地铁站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1906215,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "栖霞",
+        "name": "南京公交206路: 栖霞=>南京站·北广场东",
+        "old_ref": "南栖",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "206",
+        "route": "bus",
+        "to": "南京站·北广场东",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1906238,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "栖霞",
+        "name": "南京公交138路: 栖霞=>太阳城",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "138",
+        "route": "bus",
+        "to": "太阳城",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2119820,
+      "tags": {
+        "name": "南京公交55路",
+        "operator": "南京公交公司",
+        "ref": "55",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2119822,
+      "tags": {
+        "name": "南京公交123路",
+        "ref": "123",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2131091,
+      "tags": {
+        "from": "南湾营",
+        "name": "南京公交163路",
+        "ref": "163",
+        "route": "bus",
+        "source": "GPS",
+        "to": "长江路",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2142502,
+      "tags": {
+        "name": "南京公交51路",
+        "ref": "51",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2142503,
+      "tags": {
+        "name": "南京公交121路",
+        "ref": "121",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2171292,
+      "tags": {
+        "name": "南京公交307路",
+        "ref": "307",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2205252,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "花园公交总站",
+        "name": "南京公交D21路: 花园公交总站=>南京站·北广场东",
+        "old_ref": "南上",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "D21",
+        "route": "bus",
+        "to": "南京站·北广场东",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2206035,
+      "tags": {
+        "name": "南京公交125路",
+        "ref": "125",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2208002,
+      "tags": {
+        "name": "南京公交游5路",
+        "ref": "Y5",
+        "route": "bus",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2213075,
+      "tags": {
+        "name": "南京公交309路",
+        "operator": "南京公交公司",
+        "ref": "309",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2215042,
+      "tags": {
+        "name": "南京公交142路",
+        "operator": "南京公交公司",
+        "ref": "142",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2305386,
+      "tags": {
+        "name": "南京公交141路",
+        "operator": "南京公交公司",
+        "ref": "141",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2306362,
+      "tags": {
+        "name": "南京公交玉葛线",
+        "ref": "玉葛",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12764648,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "南京站·北广场东",
+        "name": "南京公交206路: 南京站·北广场东=>栖霞",
+        "old_ref": "南栖",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "206",
+        "route": "bus",
+        "to": "栖霞",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12764649,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "太阳城",
+        "name": "南京公交138路: 太阳城=>栖霞",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "138",
+        "route": "bus",
+        "to": "栖霞",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12793465,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "南京站·北广场东",
+        "name": "南京公交D21路: 南京站·北广场东=>花园公交总站",
+        "old_ref": "南上",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "D21",
+        "route": "bus",
+        "to": "花园公交总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992502,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "南京炼油厂总站",
+        "name": "南京公交300路: 南京炼油厂总站=>樱驼花园",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "300",
+        "route": "bus",
+        "to": "樱驼花园",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992503,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "樱驼花园",
+        "name": "南京公交300路: 樱驼花园=>南京炼油厂总站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "300",
+        "route": "bus",
+        "to": "南京炼油厂总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992504,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "南京炼油厂总站",
+        "name": "南京公交324路: 南京炼油厂总站=>灵山北路总站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "324",
+        "route": "bus",
+        "to": "灵山北路总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992505,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "灵山北路总站",
+        "name": "南京公交324路: 灵山北路总站=>南京炼油厂总站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "324",
+        "route": "bus",
+        "to": "南京炼油厂总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1906207,
+      "tags": {
+        "name": "南京公交8路",
+        "operator": "南京中北巴士公司",
+        "ref": "8",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1985487,
+      "tags": {
+        "name": "南京公交64路",
+        "ref": "64",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992506,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "太阳城",
+        "name": "南京公交323路: 太阳城=>金港科创园",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "323",
+        "route": "bus",
+        "to": "金港科创园",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992507,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "金港科创园",
+        "name": "南京公交323路: 金港科创园=>太阳城",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "323",
+        "route": "bus",
+        "to": "太阳城",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992508,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "灵山北路总站",
+        "name": "南京公交330路: 灵山北路总站=>翠林总站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "330",
+        "route": "bus",
+        "to": "翠林总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992509,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "翠林总站",
+        "name": "南京公交330路: 翠林总站=>灵山北路总站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "330",
+        "route": "bus",
+        "to": "灵山北路总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726481,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "同旺路",
+        "name": "南京公交199路: 同旺路=>摄山星城",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "199",
+        "route": "bus",
+        "to": "摄山星城",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726482,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "摄山星城",
+        "name": "南京公交199路: 摄山星城=>同旺路",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "199",
+        "route": "bus",
+        "to": "同旺路",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726483,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "摄山星城",
+        "name": "南京公交200路: 摄山星城=>西岗",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "200",
+        "route": "bus",
+        "to": "西岗",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726485,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "尤山路·摄山星城",
+        "name": "南京公交178路: 尤山路·摄山星城=>仙林中心站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "178",
+        "route": "bus",
+        "to": "仙林中心站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726486,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "仙林中心站",
+        "name": "南京公交178路: 仙林中心站=>尤山路·摄山星城",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "178",
+        "route": "bus",
+        "to": "尤山路·摄山星城",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992498,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "天旺路",
+        "name": "南京公交339路: 天旺路=>下西岗",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "339",
+        "route": "bus",
+        "to": "下西岗",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992499,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "下西岗",
+        "name": "南京公交339路: 下西岗=>天旺路",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "339",
+        "route": "bus",
+        "to": "天旺路",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12978419,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "羊山北路总站",
+        "name": "南京公交325路: 羊山北路总站=>西岗果牧场",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "325",
+        "route": "bus",
+        "to": "西岗果牧场",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12978420,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "西岗果牧场",
+        "name": "南京公交325路: 西岗果牧场=>羊山北路总站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "325",
+        "route": "bus",
+        "to": "羊山北路总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12978421,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "南大仙林校区",
+        "name": "南京公交B3路: 南大仙林校区=>南大仙林校区",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "B3",
+        "route": "bus",
+        "to": "南大仙林校区",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726484,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "西岗",
+        "name": "南京公交200路: 西岗=>摄山星城",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "200",
+        "route": "bus",
+        "to": "摄山星城",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1885366,
+      "tags": {
+        "name": "南京公交南洲线",
+        "operator": "南京新宁浦巴士公司",
+        "ref": "南洲",
+        "route": "bus",
+        "source": "GPS",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2305290,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "尤山路·摄山星城",
+        "name": "南京公交197路: 尤山路·摄山星城=>尧化门",
+        "old_ref": "摄尧",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "197",
+        "route": "bus",
+        "to": "尧化门",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726478,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "尧化门",
+        "name": "南京公交197路: 尧化门=>尤山路·摄山星城",
+        "old_ref": "摄尧",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "197",
+        "route": "bus",
+        "to": "尤山路·摄山星城",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2126900,
+      "tags": {
+        "name": "南京公交114路",
+        "ref": "114",
+        "route": "bus",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2126901,
+      "tags": {
+        "name": "南京公交73路",
+        "ref": "73",
+        "route": "bus",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2126902,
+      "tags": {
+        "name": "南京公交77路",
+        "ref": "77",
+        "route": "bus",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992510,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "翠林总站",
+        "name": "南京公交334路: 翠林总站=>翠林总站（右环）",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "334",
+        "route": "bus",
+        "to": "翠林总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992511,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "翠林总站",
+        "name": "南京公交334路: 翠林总站=>翠林总站（左环）",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "334",
+        "route": "bus",
+        "to": "翠林总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12764650,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "经天路地铁站南",
+        "name": "南京公交342路: 经天路地铁站南=>石埠桥总站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "342",
+        "route": "bus",
+        "to": "石埠桥总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12764651,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "石埠桥总站",
+        "name": "南京公交342路: 石埠桥总站=>经天路地铁站西",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "342",
+        "route": "bus",
+        "to": "经天路地铁站西",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12978413,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "摄山星城",
+        "name": "南京公交327路: 摄山星城=>栖霞",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "327",
+        "route": "bus",
+        "to": "栖霞",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12978414,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "栖霞",
+        "name": "南京公交327路: 栖霞=>摄山星城",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "327",
+        "route": "bus",
+        "to": "摄山星城",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992496,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "欢乐谷总站",
+        "name": "南京公交344路: 欢乐谷总站=>九乡河西路",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "344",
+        "route": "bus",
+        "to": "九乡河西路",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12992497,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "九乡河西路",
+        "name": "南京公交344路: 九乡河西路=>欢乐谷总站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "344",
+        "route": "bus",
+        "to": "欢乐谷总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2205251,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "经天路地铁站南",
+        "name": "南京公交D5路: 经天路地铁站南=>营防",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "D5",
+        "route": "bus",
+        "to": "营防",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2305233,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "栖霞",
+        "name": "南京公交194路: 栖霞=>龙潭",
+        "old_ref": "龙栖",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "194",
+        "route": "bus",
+        "to": "龙潭",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12723930,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "龙潭",
+        "name": "南京公交196路: 龙潭=>栖霞",
+        "old_ref": "中栖",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "196",
+        "route": "bus",
+        "to": "栖霞",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12723931,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "栖霞",
+        "name": "南京公交196路: 栖霞=>龙潭",
+        "old_ref": "中栖",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "196",
+        "route": "bus",
+        "to": "龙潭",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12723934,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "龙潭",
+        "name": "南京公交194路: 龙潭=>栖霞",
+        "old_ref": "龙栖",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "194",
+        "route": "bus",
+        "to": "栖霞",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12723937,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "宝华山(千华古村)",
+        "name": "南京公交195路: 宝华山(千华古村)=>栖霞",
+        "old_ref": "隆栖",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "195",
+        "route": "bus",
+        "to": "栖霞",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12723938,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "栖霞",
+        "name": "南京公交195路: 栖霞=>宝华山(千华古村)",
+        "old_ref": "隆栖",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "195",
+        "route": "bus",
+        "to": "宝华山(千华古村)",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726487,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "经天路地铁站南",
+        "name": "南京公交191路: 经天路地铁站南=>宝华山(千华古村)",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "191",
+        "route": "bus",
+        "to": "宝华山(千华古村)",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726488,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "宝华山(千华古村)",
+        "name": "南京公交191路: 宝华山(千华古村)=>经天路地铁站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "191",
+        "route": "bus",
+        "to": "经天路地铁站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726831,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "营防",
+        "name": "南京公交D5路: 营防=>经天路地铁站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "D5",
+        "route": "bus",
+        "to": "经天路地铁站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726836,
+      "tags": {
+        "colour": "#33AA00",
+        "from": "经天路地铁站南",
+        "name": "镇江公交616路: 经天路地铁站南=>桥头镇",
+        "operator": "镇江江天汽运有限公司",
+        "public_transport:version": "2",
+        "ref": "616",
+        "route": "bus",
+        "to": "桥头镇",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726837,
+      "tags": {
+        "colour": "#33AA00",
+        "from": "桥头镇",
+        "name": "镇江公交616路: 桥头镇=>经天路地铁站",
+        "operator": "镇江江天汽运有限公司",
+        "public_transport:version": "2",
+        "ref": "616",
+        "route": "bus",
+        "to": "经天路地铁站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12793466,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "上坝",
+        "name": "南京公交106路: 上坝=>花园公交总站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "106",
+        "route": "bus",
+        "to": "花园公交总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12793467,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "花园公交总站",
+        "name": "南京公交106路: 花园公交总站=>上坝",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "106",
+        "route": "bus",
+        "to": "上坝",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12793468,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "陈店村",
+        "name": "南京公交335路: 陈店村=>三兴村",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "335",
+        "route": "bus",
+        "to": "三兴村",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12725757,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "仙林湖总站",
+        "name": "南京公交B4路: 仙林湖总站=>仙林湖总站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "B4",
+        "route": "bus",
+        "to": "仙林湖总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12725758,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "凤坛花园",
+        "name": "南京公交159路: 凤坛花园=>经天路地铁站南",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "159",
+        "route": "bus",
+        "to": "经天路地铁站南",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12725759,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "经天路地铁站南",
+        "name": "南京公交159路: 经天路地铁站南=>凤坛花园",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "159",
+        "route": "bus",
+        "to": "凤坛花园",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726479,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "摄山星城",
+        "name": "南京公交198路: 摄山星城=>新民队",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "198",
+        "route": "bus",
+        "to": "新民队",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726480,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "新民队",
+        "name": "南京公交198路: 新民队=>摄山星城",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "198",
+        "route": "bus",
+        "to": "摄山星城",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726832,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "仙林东路·宝华花园",
+        "name": "南京公交191路区间: 仙林东路·宝华花园=>经天路地铁站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "191区间",
+        "route": "bus",
+        "to": "经天路地铁站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726833,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "经天路地铁站南",
+        "name": "南京公交191路区间: 经天路地铁站南=>仙林东路·宝华花园",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "191区间",
+        "route": "bus",
+        "to": "仙林东路·宝华花园",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726834,
+      "tags": {
+        "colour": "#33AA00",
+        "from": "凤坛花园",
+        "name": "镇江公交606路宝华线: 凤坛花园=>经天路地铁站",
+        "operator": "镇江江天汽运有限公司",
+        "public_transport:version": "2",
+        "ref": "606宝华线",
+        "route": "bus",
+        "to": "经天路地铁站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12726835,
+      "tags": {
+        "colour": "#33AA00",
+        "from": "经天路地铁站南",
+        "name": "镇江公交606路宝华线: 经天路地铁站南=>凤坛花园",
+        "operator": "镇江江天汽运有限公司",
+        "public_transport:version": "2",
+        "ref": "606宝华线",
+        "route": "bus",
+        "to": "凤坛花园",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12978415,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "经天路地铁站南",
+        "name": "南京公交328路: 经天路地铁站南=>欢乐谷总站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "328",
+        "route": "bus",
+        "to": "欢乐谷总站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12978416,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "欢乐谷总站",
+        "name": "南京公交328路: 欢乐谷总站=>经天路地铁站",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "328",
+        "route": "bus",
+        "to": "经天路地铁站",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12978417,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "元化路",
+        "name": "南京公交329路: 元化路=>周村",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "329",
+        "route": "bus",
+        "to": "周村",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12978418,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "周村",
+        "name": "南京公交329路: 周村=>元化路",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "329",
+        "route": "bus",
+        "to": "元化路",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12793469,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "三兴村",
+        "name": "南京公交335路: 三兴村=>陈店村",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "335",
+        "route": "bus",
+        "to": "陈店村",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12793470,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "营防",
+        "name": "南京公交184路: 营防=>马渡村",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "184",
+        "route": "bus",
+        "to": "马渡村",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12793471,
+      "tags": {
+        "colour": "#0088FF",
+        "from": "马渡村",
+        "name": "南京公交184路: 马渡村=>营防",
+        "operator": "南京江南公交客运有限公司",
+        "public_transport:version": "2",
+        "ref": "184",
+        "route": "bus",
+        "to": "营防",
+        "type": "route"
+      }
+    },
+    {
+      "type": "area",
+      "id": 3602140010,
+      "tags": {
+        "admin_level": "6",
+        "boundary": "administrative",
+        "name": "栖霞区",
+        "name:de": "Qixia (Nanjing)",
+        "name:en": "Qixia District",
+        "name:eu": "Qixia Barrutia",
+        "name:fr": "District de Qixia",
+        "name:id": "Distrik Qixia",
+        "name:it": "Distretto di Qixia",
+        "name:ja": "棲霞区",
+        "name:ko": "치샤구",
+        "name:nan": "Chhe-hâ-khu",
+        "name:no": "Qixia",
+        "name:ru": "Цися",
+        "name:sv": "Qixia",
+        "name:ur": "چیشیا ضلع",
+        "name:vi": "Thê Hà",
+        "name:yue": "棲霞區",
+        "name:zh": "栖霞区",
+        "name:zh-Hant": "棲霞區",
+        "type": "boundary",
+        "wikidata": "Q1337444",
+        "wikipedia": "zh:栖霞区"
+      }
+    }
+
+  ]
+}

@@ -14,17 +14,32 @@ class Route:
         self.route_id = route_id
         
         self.type = relation['type']
-        self.name = relation['name']
-        self.operator = relation['operator']
-        self.version = relation['public_transport:version']
         self.route = relation['route']
-        self.route_from = relation['route']
-        self.route_to = relation['to']
+        self.name = relation['name']
+        self.ref = relation.get('ref', None)
+        self.operator = relation.get('operator', None)
+        self.version = relation.get('public_transport:version', None)
+        self.route_from = relation.get('from', None)
+        self.route_to = relation.get('to', None)
+        
+        self.official_name = ''
+        self.roundtrip = ''
+        self.via = ''
+        self.fee = ''
+        self.charge = ''
         self.stops = []
         
-        if 'ref' not in relation:
+        if self.version is None:
+            city.warn('Public transport version is 1, which means the route is an unsorted pile of objects', relation)
+        
+        if self.ref is None:
             city.warn('Missing ref on a route', relation)
-        self.ref = relation['ref']
+
+        if self.route_from is None:
+            city.warn('Missing "from" on a route', relation)
+
+        if self.route_to is None:
+            city.warn('Missing "to" on a route', relation)
 
     def __len__(self):
         return len(self.stops)
@@ -65,14 +80,16 @@ class Route:
 
 class RouteMaster:
     def __init__(self, ref, relation, city):
-        self.ref = ref
         self.relation = relation
         self.city = city
+
+        self.ref = ref
         self.name = ''
+        self.official_name = ''
         self.routes = []
 
     def __repr__(self):
-        text = 'Route(ref={}, name={})'.format(self.ref, len(self.routes))
+        text = 'RouteMaster(ref={}, count={})'.format(self.ref, len(self.routes))
         for r in self.routes:
             text = text + '\n\t' + str(r)
             
